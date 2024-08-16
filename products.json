@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Iphone11",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Iphone12",
+        "price": 350,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Watch",
+        "price": 200,
+        "company": "samsung"
+    },
+    {
+        "name": "Ipad",
+        "price": 700,
+        "company": "apple"
+    },
+    {
+        "name": "Laptop",
+        "price": 1000,
+        "company": "dell"
+    },
+    {
+        "name": "phone",
+        "price": 500,
+        "company": "samsung"
+    },
+    {
+        "name": "mi20",
+        "price": 120,
+        "company": "mi"
+    }
+]

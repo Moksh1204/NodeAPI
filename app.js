@@ -6,6 +6,9 @@ const PORT = process.env.PORT || 5000;
 
 const products_routes = require('./routes/products')
 
+// Middleware to parse JSON
+app.use(express.json());
+
 // middleware OR set router
 app.use("/api/products", products_routes)
 
